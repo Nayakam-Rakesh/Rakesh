@@ -55,6 +55,3 @@ User Interface: This is where the user interacts with the app (via the counter, 
 Counter Component: Allows the user to modify the counter value and see the changes in the UI and background color.
 User Data Form: Collects user details, validates the input, generates a unique ID, and saves the data.
 Rich Text Editor: Visualizes and allows editing of user data with text formatting options.
-State Management: All data is managed via React state (or external state management like RTK), and changes are persisted using local storage or RTK.
-Persisted Data: Data stored in local storage or Redux persists across page reloads.
-Rendered UI Updates: As state changes (counter or form submission), the UI updates accordingly.
