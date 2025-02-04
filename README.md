@@ -1,7 +1,10 @@
 Introduction:
-You are tasked with building a React-based web application with TypeScript. The project includes:
+ Building a React-based web application with TypeScript.
+ 
+ The project includes:
 
-Counter Component: A component that lets the user interact with a numerical counter.
+Counter Component: 
+A component that lets the user interact with a numerical counter.
 User Data Form: A form to collect and store user data (name, address, email, phone).
 Rich Text Editor: A visual text editor that lets users format and edit text.
 This web application will involve maintaining state across re-renders, storing data (using local storage or Redux Toolkit), and handling user input in a safe, structured way using TypeScript. The UI will be built with libraries like Material UI, Chakra UI, or Next UI, and animated with React Spring for smooth transitions.
@@ -36,6 +39,7 @@ Text Formatting: Provide options like bold, italic, underline, and lists (bullet
 Data Persistence: When the user edits the text, the changes should be saved (either in the state or local storage).
 TypeScript Integration: Using TypeScript, you can define types for the text content, ensuring that any user input or changes to the editor are safely managed and persist in the correct format.
 Project Flow and Diagram:
+
 User Interactions:
 
 Users interact with the Counter Component by clicking the buttons to modify the counter value (increment, decrement, reset).
