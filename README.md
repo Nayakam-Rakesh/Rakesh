@@ -1,7 +1,8 @@
 Project Title:
-This React web application has three main features:
+React web application has three main features:
 
 Counter Component:
+
 Buttons for increment, decrement, and reset the counter.
 The background color changes smoothly based on the counter value.
 State should persist across page reloads (using localStorage or React State).
